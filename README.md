@@ -1,4 +1,4 @@
-## Snake and Ladder Game
+# Snake and Ladder Game
 
 This is a simple console-based Snake and Ladder game implemented in C. The game supports two players and includes the classic snakes and ladders mechanics. The player who reaches position 100 first wins the game.
 
